@@ -1,6 +1,6 @@
 ## Hello Embedded & Software Engineers 👋
 
-I'm a software engineer with a passion for both embedded systems and software development 
+I'm a Electrical Engineer working in Software with a passion for both Embedded Systems and Software Development 
 
 I currently work with **Rolls-Royce** on their Internal Aircraft Engine Repair Management Software ✈️🚀🛠️
 
