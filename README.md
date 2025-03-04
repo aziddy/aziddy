@@ -1,4 +1,4 @@
-## Hello Embedded & Software Engineers 👋
+## Hello Electrical & Software Engineers 👋
 
 I'm a Electrical Engineer working in Software with a passion for both Embedded Systems and Software Development 
 
